@@ -1,1 +1,8 @@
+# GitEye specific
 /.project
+
+# Generic PKGBUILD build directories
+pkg/
+src/
+*.pkg.tar.xz
+*.tar.gz
